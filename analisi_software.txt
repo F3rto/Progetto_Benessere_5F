@@ -1,0 +1,32 @@
+ANALISI DELLA DOMANDA DEL CLIENTE 
+
+
+Il nostro cliente è Ferraris Wellness S.P.A. che è organizzato in diverse strutture:
+- centri benessere;
+- SPA;
+- palestre;
+- centri termali;
+(- eventuali hotel)
+
+L’obiettivo principale del software è garantire il continuo utilizzo di tutte le sale.
+In ogni sala può operare: 
+- un operatore specializzato che riceverà un premio pari al 25% del suo stipendio;
+- un team di operatori specializzati;
+
+Avremo un’ AMMINISTRAZIONE CENTRALE che userà il software per le prenotazioni dei clienti (con eventuali disdette)comprendendo in esse eventuali sconti e promozioni.
+
+Avremo una DIREZIONE LOCALE che gestirà i turni di lavoro e le eventuali sostituzioni.
+
+Le strutture hanno il seguente orario di apertura settimanale:
+MATTINA  09:00/13.30 
+POMERIGGIO 15:00/21:00
+
+In ogni struttura troviamo un medico responsabile e un team di medici che possono accedere ai dati sanitari dei vari clienti.
+Ogni cliente può richiedere una visita col medico convenzionato, se il cliente è abbonato alla struttura riceve uno sconto del 30%.
+
+Il medico può stilare due documenti che possono essere scaricato in PDF:
+- un referto medico del paziente;
+- un rapporto sulle condizioni igienico-sanitarie della struttura;
+
+I clienti che avranno accettato il consenso per usare i propri dati personali ai fini promozionali, verranno aggiunti ad una newsletter per eventuali sconti e promozioni. Da questa lista ogni cliente potrà essere rimosso in  qualunque momento.
+Nelle strutture con hotel i clienti dovranno farsi carico delle spese che riguardano i servizi(pranzo,cena,servizi aggiuntivi, Ecc…) usando uno schermo touch screen usando paypal, inoltre il cliente potrà creare un portafoglio virtuale  ricaricabile al posto di paypal.
