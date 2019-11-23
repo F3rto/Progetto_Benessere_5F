@@ -1,0 +1,4 @@
+-Chiedere del calcolo automatico delle ore di attività.
+-Chiedere com gestire le differenze tra amministrazione centrale e locale e i compiti assegnati ad essi.
+ Se le prenotazioni devono essere gestite automaticamente o da un personale addetto a farlo. (gestione centrale)
+ Se i turni degli operai ed il numero di operai in un turno devono essere gestiti da una persona adatta a farlo. (gestione locale)
