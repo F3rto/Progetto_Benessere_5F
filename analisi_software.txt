@@ -13,7 +13,8 @@ In ogni sala può operare:
 - un operatore specializzato che riceverà un premio pari al 25% del suo stipendio;
 - un team di operatori specializzati;
 
-Avremo un’ AMMINISTRAZIONE CENTRALE che userà il software per le prenotazioni dei clienti (con eventuali disdette)comprendendo in esse eventuali sconti e promozioni.
+Avremo un’ AMMINISTRAZIONE CENTRALE che userà il software per le prenotazioni dei clienti (con eventuali disdette)
+comprendendo in esse eventuali sconti e promozioni.
 
 Avremo una DIREZIONE LOCALE che gestirà i turni di lavoro e le eventuali sostituzioni.
 
@@ -29,4 +30,5 @@ Il medico può stilare due documenti che possono essere scaricato in PDF:
 - un rapporto sulle condizioni igienico-sanitarie della struttura;
 
 I clienti che avranno accettato il consenso per usare i propri dati personali ai fini promozionali, verranno aggiunti ad una newsletter per eventuali sconti e promozioni. Da questa lista ogni cliente potrà essere rimosso in  qualunque momento.
-Nelle strutture con hotel i clienti dovranno farsi carico delle spese che riguardano i servizi(pranzo,cena,servizi aggiuntivi, Ecc…) usando uno schermo touch screen usando paypal, inoltre il cliente potrà creare un portafoglio virtuale  ricaricabile al posto di paypal.
+Nelle strutture con hotel i clienti dovranno farsi carico delle spese che riguardano i servizi(pranzo,cena,servizi aggiuntivi, Ecc…) usando uno schermo touch screen usando paypal, inoltre il cliente potrà creare un portafoglio virtuale  ricaricabile 
+al posto di paypal.
