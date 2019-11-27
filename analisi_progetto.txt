@@ -8,12 +8,14 @@
 	- cellulare
 	- data e ora della prenotazione/servizio
 	L'inserimento di data e ora avviene mediante un calendario grafico.
-	I clienti possono prenotare una visita medica specialistica.
+	I clienti possono prenotare una visita medica specialistica, se è abbonato avrà uno sconto del 30%.
+
+-operai: ad ogni prenotazione bisogna associare uno o più operai; se l'operaio per quella prenotazione è uno ed uno solo, avrà un 	  premio produzione del 25%.
 
 -medici: il medico può essere responsabile della sede oppure dipendente, appartenente ad un team di medici.
 	Tutti i medici possono accedere ai dati sanitari dei clienti.
-	Il medico responsabile dovrà ovvuparsi di scrivere un resoconto delle condizioni igienico/sanitarie della struttura.
+	Il medico responsabile dovrà occuparsi di scrivere un resoconto delle condizioni igienico/sanitarie della struttura.
 	Oppure, sempre quest'ultimo, stilare un referto medico del paziente. Questi documenti saranno scaricabili in formato PDF.
 
 -pagamenti: i pagamenti devono avvenire tramite paypal.
-	Ogni utente può possedere un portafoglio sul sito che caricherà attraverso paypal.(?)
+	Ogni utente può possedere un portafoglio sul sito che ricaricherà attraverso paypal.(?)
