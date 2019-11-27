@@ -8,6 +8,7 @@
 	- cellulare
 	- data e ora della prenotazione/servizio
 	L'inserimento di data e ora avviene mediante un calendario grafico.
+	I clienti possono prenotare una visita medica specialistica.
 
 -medici: il medico può essere responsabile della sede oppure dipendente, appartenente ad un team di medici.
 	Tutti i medici possono accedere ai dati sanitari dei clienti.
