@@ -1,0 +1,10 @@
+-prenotazioni: gestite in una sezione dedicata. Si possono prenotare singoli trattamenti o percorsi.
+Le informazioni necessarie per effettuare una prenotazione sono: 
+	- nome 
+	- cognome
+	- data di nascita
+	- codice fiscale
+	- email
+	- cellulare
+	- data e ora della prenotazione/servizio
+L'inserimento di data e ora avviene mediante un calendario grafico.
