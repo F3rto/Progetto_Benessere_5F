@@ -1,5 +1,5 @@
 -prenotazioni: gestite in una sezione dedicata. Si possono prenotare singoli trattamenti o percorsi.
-Le informazioni necessarie per effettuare una prenotazione sono: 
+	Le informazioni necessarie per effettuare una prenotazione sono: 
 	- nome 
 	- cognome
 	- data di nascita
@@ -7,4 +7,12 @@ Le informazioni necessarie per effettuare una prenotazione sono:
 	- email
 	- cellulare
 	- data e ora della prenotazione/servizio
-L'inserimento di data e ora avviene mediante un calendario grafico.
+	L'inserimento di data e ora avviene mediante un calendario grafico.
+
+-medici: il medico può essere responsabile della sede oppure dipendente, appartenente ad un team di medici.
+	Tutti i medici possono accedere ai dati sanitari dei clienti.
+	Il medico responsabile dovrà ovvuparsi di scrivere un resoconto delle condizioni igienico/sanitarie della struttura.
+	Oppure, sempre quest'ultimo, stilare un referto medico del paziente. Questi documenti saranno scaricabili in formato PDF.
+
+-pagamenti: i pagamenti devono avvenire tramite paypal.
+	Ogni utente può possedere un portafoglio sul sito che caricherà attraverso paypal.(?)
