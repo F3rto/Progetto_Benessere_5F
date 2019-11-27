@@ -8,7 +8,7 @@
 	- cellulare
 	- data e ora della prenotazione/servizio
 	L'inserimento di data e ora avviene mediante un calendario grafico.
-	I clienti possono prenotare una visita medica specialistica, se è abbonato avrà uno sconto del 30%.
+	I clienti possono prenotare una visita medica specialistica, se abbonati avranno uno sconto pari al 30%.
 
 -operai: ad ogni prenotazione bisogna associare uno o più operai; se l'operaio per quella prenotazione è uno ed uno solo, avrà un 	  premio produzione del 25%.
 
