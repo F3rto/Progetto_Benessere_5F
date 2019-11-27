@@ -32,3 +32,4 @@ Il medico può stilare due documenti che possono essere scaricato in PDF:
 I clienti che avranno accettato il consenso per usare i propri dati personali ai fini promozionali, verranno aggiunti ad una newsletter per eventuali sconti e promozioni. Da questa lista ogni cliente potrà essere rimosso in  qualunque momento.
 Nelle strutture con hotel i clienti dovranno farsi carico delle spese che riguardano i servizi(pranzo,cena,servizi aggiuntivi, Ecc…) usando uno schermo touch screen usando paypal, inoltre il cliente potrà creare un portafoglio virtuale  ricaricabile 
 al posto di paypal.
+
